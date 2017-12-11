@@ -23,6 +23,6 @@ final-project-four-score created by GitHub Classroom
 
 3. After finding our data, our next step was to create our data model and ERD which would outline our database design. Given that we were only able to design 4 legitmate tables into our database from our Champions Data from kaggle, we decided to create our 5th table using data from both tables. In doing so, we modified our orignal csv file to include a TeamCode column which we'd use as a primary key in our team table and also pair to the 'tm'(Team) column from the player data which identified teams as codes and not by their actual name. 
 
-Below is a view the ERD created to design our database. 
+Below is a view the ERD created to design our database....
 
-
+4. Using the ERD Database Model we created, we were able to write the DDL language to create the database connection, contruct the tables, and identifying keys and column types
