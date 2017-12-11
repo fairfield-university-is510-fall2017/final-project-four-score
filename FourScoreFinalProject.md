@@ -25,4 +25,4 @@ final-project-four-score created by GitHub Classroom
 
 Below is a view the ERD created to design our database....
 
-4. Using the ERD Database Model we created, we were able to write the DDL language to create the database connection, contruct the tables, and identifying keys and column types
+4. Using the ERD Database Model we created, we were able to write the DDL to create the database connection, construct the tables, and identify keys and column types for each table.
