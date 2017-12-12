@@ -23,7 +23,7 @@ The purpose of this project was to create a database using NBA Championship Fina
  
  Below is a view the ERD created to design our database....
  
- 4. Using the ERD Database Model we created, we were able to write the DDL to create the database connection, construct the tables, and identify keys and column types for each table. Before populating into our relational tables, we created a data table, NBAData, which would include all data imported from the csv file. 
+ 4. Using the ERD Database Model we created, we were able to write the [DDL](https://github.com/fairfield-university-is510-fall2017/final-project-four-score/blob/master/DDL.ipynb) to create the database connection, construct the tables, and identify keys and column types for each table. Before populating into our relational tables, we created a data table, NBAData, which would include all data imported from the csv file. 
  
   ### Importing the Data Tables
  
