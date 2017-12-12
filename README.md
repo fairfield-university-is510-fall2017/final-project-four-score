@@ -38,10 +38,11 @@ The purpose of this project was to create a database using NBA Championship Fina
  7. Since we used an interesting dataset, we decided to test out accruacy even further by discovering cool [facts](https://github.com/fairfield-university-is510-fall2017/final-project-four-score/blob/master/Analysis.ipynb) on NBA championship teams and players from popluar teams and from out current favorite teams. We found this to be interesting because we could find out any fact about winning teams back to 1980 and all players who have played on the winning team. 
  
  
- ## Things We Learned
+ ## Things We Learned/Challenges
  - It is very important to have your database well designed base on the rule of normalization. The order of creating tables and identifying weak and strong entities as well as levels among the tables
  - It is important to know more than one method of solving the same problem because sometimes not all methods work with what you are trying to do
  - Gather facts,data and decide on a purpose before diving into to code.
+ - Consistency with colmun titles(especially when join columns can get confusing) 
  - Always ask for help!!! Whether it is from the professor, teammates or google. Asking early prevents you from misuse of time and identifying the problem early on
  
  
