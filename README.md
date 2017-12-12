@@ -33,7 +33,7 @@ The purpose of this project was to create a database using NBA Championship Fina
  
  6. To ensure that the tables included accurate data, we ran a number of "select *" queries from each table.
  
-  ### Analysis
+  ### Analysis 
  
  7. Since we used an interesting dataset, we decided to test out accruacy even further by discovering cool [facts](https://github.com/fairfield-university-is510-fall2017/final-project-four-score/blob/master/Analysis.ipynb) on NBA championship teams and players from popluar teams and from out current favorite teams. We found this to be interesting because we could find out any fact about winning teams back to 1980 and all players who have played on the winning team. 
  
