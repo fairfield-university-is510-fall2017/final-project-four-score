@@ -27,7 +27,7 @@ The purpose of this project was to create a database using NBA Championship Fina
  
  4. Using the ERD Database Model we created, we were able to write the [DDL](https://github.com/fairfield-university-is510-fall2017/final-project-four-score/blob/master/DDL.ipynb) to create the database connection, construct the tables, and identify keys and column types for each table. Before populating into our relational tables, we created a data table, NBAData, which would include all data imported from the csv file. 
  
-  ### Importing the Data into Tables
+  ### Importing the Data into Tables 
  
  5. After creating the tables and creating pragmas to endsure keys are correctly identifed, we imported the data into our tables using inserty functions in our [DML](https://github.com/fairfield-university-is510-fall2017/final-project-four-score/blob/master/DML.ipynb)  notebook. Our first step was to grab the data from the ChampionsData csv file and run .mode and .csv commands in SQLite3 follwed by a .dump commmand which would return all data from the csv and import into our data table (NBAData). We extracted the  insert statements from terminal and pasted into our DML file. Once inserted, we imported into our 4 main tables to import the data from the NBAData table. In order to import into the 5th table, we needed to pull data from both our csv and the web hosted csv from Data World. This wwas done by using the .to_sql command to import the data from the hosted csv into a new table and converting it to a data frame. From there, we were able to import into the Players table using data from both sources.
  
