@@ -39,10 +39,10 @@ The purpose of this project was to create a database using NBA Championship Fina
  
  
  ## Things We Learned
- - It is very important to have your database well designed base on the rule of normalization
- - The order of creating tables is extrememly important. It is important to identify weak and strong entities as well as levels among the tables
+ - It is very important to have your database well designed base on the rule of normalization. The order of creating tables and identifying weak and strong entities as well as levels among the tables
  - It is important to know more than one method of solving the same problem because sometimes not all methods work with what you are trying to do
- - Always ask the help!!! Whether it is from the professor, teammates or google. Asking early prevents you from misusing time and identifying the problem early on
+ - Gather facts,data and decide on a purpose before diving into to code.
+ - Always ask for help!!! Whether it is from the professor, teammates or google. Asking early prevents you from misuse of time and identifying the problem early on
  
  
  
