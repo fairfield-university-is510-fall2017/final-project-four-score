@@ -1,7 +1,7 @@
 # final-project-four-score
 final-project-four-score created by GitHub Classroom
 
-# NBA Champtionship Stats
+# NBA Championship Stats
 
 ## Description/Purpose
 
