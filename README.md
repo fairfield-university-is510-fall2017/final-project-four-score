@@ -43,7 +43,7 @@ The purpose of this project was to create a database using NBA Championship Fina
  - It is important to know more than one method of solving the same problem because sometimes not all methods work with what you are trying to do
  - Gather facts,data and decide on a purpose before diving into to code.
  - Consistency with colmun titles(especially when join columns can get confusing) 
- - Always ask for help!!! Whether it is from the professor, teammates or google. Asking early prevents you from misuse of time and identifying the problem early on  
+ - Always ask for help!!! Whether it is from the professor, teammates or google. Asking early prevents you from misuse of time and identifying the problem early on 
  
  
  
